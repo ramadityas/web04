@@ -4,10 +4,9 @@
         id          = "com.phonegap.example"
         versionCode = "1" 
         version     = "1.0.0" >
-  <name>Tokoh Teladan</name>
-  <description>Kumpulan Cerita Tokoh Teladan Dalam Alkitab</description>
+  <name>Test</name>
+  <description>Ini test</description>
   <author href="http://ramaditya.pe.hu" email="ramaditya.id@gmail.com">Ramaditya Satria</author>
   <content src="index.html"/>
-  <icon src="icon.png" />
   <access origin="*" />
 </widget>
