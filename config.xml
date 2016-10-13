@@ -8,5 +8,7 @@
   <description>Ini test</description>
   <author href="http://ramaditya.pe.hu" email="ramaditya.id@gmail.com">Ramaditya Satria</author>
   <content src="index.html"/>
+  <plugin spce="https://github.com/apache/cordova-plugin-whitelist" source="git"/>
   <access origin="*" />
+  <allow-navigation href="*" />
 </widget>
